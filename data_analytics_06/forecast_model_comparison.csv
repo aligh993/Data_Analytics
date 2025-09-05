@@ -1,0 +1,4 @@
+Product_ID,Product_Name_en,Product_Name_fa,Prophet_mse,Prophet_mape,LGB_mse,LGB_mape,LGB_info
+P007,MAK_SKU_07,آرایش - محصول شماره 07,,,100.84445624999915,0.0036335768760350196,{'fallback': 'RandomForest'}
+P003,FRA_SKU_03,عطر - محصول شماره 03,,,5870.978370833342,0.014682960430851238,{'fallback': 'RandomForest'}
+P012,FRA_SKU_12,عطر - محصول شماره 12,,,4540.045987499992,0.018929749323085537,{'fallback': 'RandomForest'}
